@@ -5824,8 +5824,11 @@ button.close {
 }
 @media (min-width: 768px) {
   .modal-dialog {
-    width: 600px;
-    margin: 30px auto;
+    
+    width: 873px;
+    height: 408px;
+   margin: 30px auto;
+
   }
   .modal-content {
     -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, .5);
